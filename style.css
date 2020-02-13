@@ -1,0 +1,59 @@
+body {
+    max-width: 1024px;
+    padding: 0 20px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333940;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    cursor: pointer;
+}
+
+p {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.contacts li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.contacts {
+    width: 500px;
+}
+
+.photo img {
+    width: 135px;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 60px 0;
+    padding-bottom: 30px;
+    color: #000000;
+    border-bottom: 1px solid #eaecef;
+}
+
+section:last-child {
+    margin-bottom: 50px;
+}
