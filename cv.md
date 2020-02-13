@@ -2,10 +2,10 @@
 **Mobile Phone:** +7-927-927-27-27  
 **E-mail:** <r.salikhov96@gmail.com>  
 **GitHub:** [GitHub](https://github.com/rasl-ex/)  
-  
-##Ruslan Salikhov  
-  
-###**Goals**  
+
+## Ruslan Salikhov  
+
+### **Goals**  
 I want to learn a new profession of front-end developer. 
 I am very interested in this course and start my career as a junior software engineer in future.   
 
