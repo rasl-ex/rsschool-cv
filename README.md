@@ -1,0 +1,1 @@
+[https://rasl-ex.github.io/rsschool-cv/cv](https://rasl-ex.github.io/rsschool-cv/cv)
